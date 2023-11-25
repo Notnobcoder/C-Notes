@@ -15,6 +15,4 @@ int main() {
   cout << sizeof(ch) << " is the size" << endl;
   // explicit type conversion
   cout << (int)value << " is the value" << endl;
-
-
 }
